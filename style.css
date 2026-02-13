@@ -2,6 +2,7 @@ body{
     margin: 0;
     direction: rtl;
     background-color: rgb(160, 192, 183);
+    text-align:center;
 }
 .zad{
     text-align: center;
@@ -88,4 +89,5 @@ hr{
 }
 .b{
     text-align: center;
+
 }
