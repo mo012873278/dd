@@ -57,7 +57,7 @@ nav ul li a{
 
 }
 .page-1 h4{
-    background-color: rgba(168, 49, 49, 0.822);
+ background-color: rgb(218 41 41 / 83%);
 }
 .page-1 h3{
     font-size: 25px;
@@ -91,3 +91,4 @@ hr{
     text-align: center;
 
 }
+
